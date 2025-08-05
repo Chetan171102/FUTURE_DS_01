@@ -37,3 +37,5 @@
   <li> ecommerce_sales_data - CSV file</li>
   <li> Ecommerce sale dashboard - Power BI</li>
 </ul>
+<hr>
+<h2>🔗 LinkedIn Post</h2>
