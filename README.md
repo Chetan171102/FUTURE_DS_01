@@ -23,7 +23,9 @@ Duration Analyzed: 2020–2024<br>
 <hr>
 
 📈 Key Insights<br>
-Sales peak in November–December due to holiday trends.<br>
-Technology category contributes highest revenue.<br>
-Top products like “Canon ImageCLASS” dominate sales.<br>
-West region leads in both sales and profit<br>
+<ul>
+<li>Sales peak in October and July<br></li>
+<li>Technology category contributes highest revenue.<br></li>
+<li>Top products like “Canon ImageCLASS” dominate sales.<br></li>
+<li>West region leads in both sales and profit<br></li>
+</ul>
