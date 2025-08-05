@@ -15,9 +15,11 @@ Duration Analyzed: 2020–2024<br>
 </ul>
 <hr>
 <h2>📊Tools & Technologies Used<br></h2>
-Power BI Desktop – Dashboard development<br>
-Microsoft Excel – Data cleaning and preprocessing<br>
-DAX – KPI calculations and advanced analytics<br>
+<ul>
+<li>Power BI Desktop – Dashboard development<br></li>
+<li>Microsoft Excel – Data cleaning and preprocessing<br></li>
+<li>DAX – KPI calculations and advanced analytics<br></li>
+</ul>
 <hr>
 
 📈 Key Insights<br>
