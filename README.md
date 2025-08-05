@@ -28,3 +28,7 @@
 <li>Groceries category contributes highest revenue.<br></li>
 <li>North region leads in both sales and profit<br></li>
 </ul>
+<br><hr>
+<h2>📷 Dashboard</h2>
+<img width="1439" height="810" alt="image" src="https://github.com/user-attachments/assets/c11d759d-94e8-43bf-a1e8-c99e43ed0260" />
+
