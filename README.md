@@ -1,9 +1,9 @@
 # FUTURE_DS_01
 <h3>Task 1 – E-Commerce Sales Dashboard Using Power BI | Future Interns Data Science Track <br><br></h3>
 <b>Internship Track:</b> Data Science & Analytics<br>
-Organization: Future Interns<br>
-Intern: Chetan Singh<br>
-Duration Analyzed: 2020–2024<br>
+<b>Organization:</b>  Future Interns<br>
+<b>Intern:</b>  Chetan Singh<br>
+<b>Duration Analyzed:</b>  2020–2024<br>
 <hr>
 <h2>📌Task Objective<br></h2>
 <ul>
