@@ -19,7 +19,7 @@ DAX – KPI calculations and advanced analytics<br>
 <hr>
 
 📈 Key Insights<br>
-📆 Sales peak in November–December due to holiday trends.<br>
-💰 Technology category contributes highest revenue.<br>
-🥇 Top products like “Canon ImageCLASS” dominate sales.<br>
-📍 West region leads in both sales and profit<br>
+Sales peak in November–December due to holiday trends.<br>
+Technology category contributes highest revenue.<br>
+Top products like “Canon ImageCLASS” dominate sales.<br>
+West region leads in both sales and profit<br>
