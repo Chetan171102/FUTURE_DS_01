@@ -12,7 +12,7 @@ Monthly sales trends<br>
 Category & regional performance<br>
 Key revenue indicators to support business decisions<br>
 <hr>
-<h2>Tools & Technologies Used<br></h2>
+<h2>📊Tools & Technologies Used<br></h2>
 Power BI Desktop – Dashboard development<br>
 Microsoft Excel – Data cleaning and preprocessing<br>
 DAX – KPI calculations and advanced analytics<br>
