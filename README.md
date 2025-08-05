@@ -34,5 +34,6 @@
 <hr>
 <h2>📄 Files Included</h2>
 <ul>
-  <li> </li>
+  <li> ecommerce_sales_data - CSV file</li>
+  <li> Ecommerce sale dashboard - Power BI</li>
 </ul>
