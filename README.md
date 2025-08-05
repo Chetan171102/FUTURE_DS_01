@@ -22,7 +22,7 @@ Duration Analyzed: 2020–2024<br>
 </ul>
 <hr>
 
-📈 Key Insights<br>
+<h2>📈 Key Insights<br></h2>
 <ul>
 <li>Sales peak in October and July<br></li>
 <li>Groceries category contributes highest revenue.<br></li>
