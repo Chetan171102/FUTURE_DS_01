@@ -6,11 +6,12 @@ Intern: Chetan Singh<br>
 Duration Analyzed: 2020–2024<br>
 <hr>
 <h2>📌Task Objective<br></h2>
+<ul>
 Build a Power BI dashboard to analyze historical e-commerce sales data and generate actionable insights for:<br>
 Best-selling products<br>
 Monthly sales trends<br>
 Category & regional performance<br>
-Key revenue indicators to support business decisions<br>
+Key revenue indicators to support business decisions<br></ul>
 <hr>
 <h2>📊Tools & Technologies Used<br></h2>
 Power BI Desktop – Dashboard development<br>
