@@ -38,4 +38,4 @@
   <li> Ecommerce sale dashboard - Power BI</li>
 </ul>
 <hr>
-<h2>🔗 LinkedIn Post: <a href>https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-ecommercenanalytics-activity-7358414781273296898-B7wt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8>ecommerce dashboard</a></h2>
+<h2>🔗 LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-ecommercenanalytics-activity-7358414781273296898-B7wt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Ecommerce Dashboard</a>
