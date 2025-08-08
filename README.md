@@ -34,8 +34,8 @@
 <hr>
 <h2>📄 Files Included</h2>
 <ul>
-  <li> ecommerce_sales_data - CSV file</li>
-  <li> Ecommerce sale dashboard - Power BI</li>
+  <li> <a href="https://github.com/Chetan171102/FUTURE_DS_01/blob/e845ff8d5991943cbbb1cb37df16234335f70307/ecommerce_sales_data.csv">ecommerce_sales_data </a>- CSV file</li>
+  <li> <a href="https://github.com/Chetan171102/FUTURE_DS_01/blob/e845ff8d5991943cbbb1cb37df16234335f70307/Ecommerce%20sale%20dashboard.pbix">Ecommerce sale dashboard</a> - Power BI</li>
 </ul>
 <hr>
 <h2>🔗 LinkedIn Post: <a href="https://www.linkedin.com/posts/chetan-singh-860b22280_powerbi-futureintern-ecommercenanalytics-activity-7358414781273296898-B7wt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESCeEgBPuC8no3kANapFSnqArftl-cB7h8">Ecommerce Sales Dashboard</a>
